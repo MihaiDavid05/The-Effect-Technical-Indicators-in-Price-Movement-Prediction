@@ -1,4 +1,6 @@
-# The-Effect-Technical-Indicators-in-Price-Movement-Prediction
+# The Effect of Technical Indicators in Price Movement Prediction
+
+## Abstract
 
 Automated trading is becoming more and more popular. The rise of new data processing techniques and
 computing capabilities ensures that trading strategies are continuously evolving. In this study, we assess the
@@ -7,3 +9,7 @@ edge in the market of today. We use these trading indicators as input data into 
 to predict whether the following day will generate positive or negative returns for a stock. The models are
 assessed on data from the 1960s up to the present time. We limited our scope to the top 100 most traded
 stocks, and drew conclusions using modern explainability techniques to evaluate the models.
+
+
+## Code
+The entire code can be found in the `ProjectFin.ipynb` notebook.
